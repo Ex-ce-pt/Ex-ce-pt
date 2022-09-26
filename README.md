@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Ex-ce-pt
-- 👀 I can code in Java, C++ and Python (C# for Unity as well☺)
+- 👀 I can code in **Java**, **C++**, **Python**, **JavaScript**(**TypeScript**) (**C# for Unity** as well☺)
 - 📫 Contact me:
   - GitHub → You're already here!
-  - Discord → **Exedice [Ex_ce_pt]#7316** (I don't like accepting random friend requests, so try to contact me in a different way, please)
-  - GameJolt → [Link](https://gamejolt.com/@Ex_ce_pt)
+  - Discord → **Exedice#7316** (I don't like accepting random friend requests, so try to contact me in a different way, please)
+  - GameJolt → [Link](https://gamejolt.com/@Exedice)
 
 <!---
 Ex-ce-pt/Ex-ce-pt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
