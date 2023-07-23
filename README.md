@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ex-ce-pt (the nickname's *Exedice*)
-- 👀 I can code in **JavaScript**(**TypeScript**) using Svelte framework, **Java**, **C++**
+- 👀 I can code in **JavaScript** (**TypeScript**) using Svelte framework, and **C++**
 - 📫 Contact me:
   - GitHub → You're already here!
-  - Discord → **Exedice#7316**
-  - GameJolt → [Link](https://gamejolt.com/@Exedice)
+  - Discord → `exedice`
+  - GMail → `except.dice@gmail.com`
