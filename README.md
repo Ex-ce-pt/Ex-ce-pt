@@ -1,6 +1,10 @@
 - 👋 Hi, I’m @Ex-ce-pt (the nickname's *Exedice*)
-- 👀 I can code in **JavaScript** (**TypeScript**) using Svelte framework, and **C++**
+- 👀 I can code in **TypeScript** using Svelte framework, and **C++**
 - 📫 Contact me:
-  - GitHub → You're already here!
-  - Discord → `exedice`
-  - GMail → `except.dice@gmail.com`
+    - GitHub → You're already here!
+    - Discord → `exedice`
+    - GMail → `except.dice@gmail.com`
+
+- I am:
+    - Frontend developer at OpenStudio.
+    - Beta-tester at [NavigoLearn](https://navigolearn.com/).
