@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Ex-ce-pt (*Exedice*)
-- 👀 I can code in **TypeScript** using Svelte framework, and **C++**
+- 👀 I am a **C++** developer. I also have experience and from time to time work with **TypeScript** and **Svelte** framework.
 - 📫 Contact me:
     - GitHub → You're already here!
     - Discord → `exedice`
     - GMail → `except.dice@gmail.com`
 
-- I am:
+- I am currently:
+    - A **C++ developer** at Trimego.
     - Frontend developer at OpenStudio.
-    - Beta-tester at [NavigoLearn](https://navigolearn.com/).
