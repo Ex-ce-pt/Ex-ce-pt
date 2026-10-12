@@ -1,10 +1,24 @@
-- 👋 Hi, I’m @Ex-ce-pt (*Exedice*)
-- 👀 I am a **C++** developer. I also have experience and from time to time work with **TypeScript** and **Svelte** framework.
-- 📫 Contact me:
-    - GitHub → You're already here!
-    - Discord → `exedice`
-    - GMail → `except.dice@gmail.com`
+# Exedice
 
-- I am currently:
-    - A **C++ developer** at Trimego.
-    - Frontend developer at OpenStudio.
+[@Ex-ce-pt](https://github.com/Ex-ce-pt)
+
+#### About Me
+
+Hi there! I am a hobbyist programmer currently mainly specialising in **C++**, though I have experience with other technologies as well, like **Python**, **JavaScript**, **R**, and some others. I am interested in Mathematics, [DSP](https://en.wikipedia.org/wiki/Digital_signal_processing), and Chemistry! Well, there isn't much else to say, is there?
+
+#### Contacts
+
+<table>
+    <tr>
+        <td>GitHub</td>
+        <td>You're already here!</td>
+    </tr>
+    <tr>
+        <td>Discord</td>
+        <td>exedice</td>
+    </tr>
+    <tr>
+        <td>Email</td>
+        <td>except.dice@gmail.com</td>
+    </tr>
+</table>
